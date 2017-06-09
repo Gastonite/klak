@@ -1,6 +1,6 @@
 {
   "name": "klak",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ultra lite event emitter",
   "main": "src/emitter.js",
   "repository": {
