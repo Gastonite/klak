@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Ultra lite event emitter",
   "main": "src/emitter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gastonite/klak"
+  },
   "scripts": {
     "test": "lab --bail -vcCD --coverage-path ./src",
     "build": "webpack"
